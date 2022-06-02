@@ -1,0 +1,10 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+.m-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+}
